@@ -9,7 +9,15 @@
 
 I am a specialist with a technical and economic education and have been automating internal processes of commercial companies for many years. Over the past 3 years, I have become an artificial intelligence (AI) enthusiast and actively participate in related projects and competitions. I try to use my passion for research in order to create something new every day in this innovative field and in parallel to solve business problems.
 
-## 🛠️ My Favourite tools
+### Talking about Personal Stuff:
+
+- 👨‍🎓 I'm MSc and just graduated.
+- 🔭 I’m currently participating in different competitions related to NLP and CV and in parallel continuing some projects related to Aspect-based Sentiment Analysis.
+- 💬 Ask me about anything, I am happy to help
+-  :mailbox:How to reach me:[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Shakhovak/)</a>.
+- 📝 [Resume in Russian](https://myresume.ru/resume/okpBihRSSRY/).
+
+### 🛠️ My Favourite tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40"/>&nbsp;
@@ -19,10 +27,14 @@ I am a specialist with a technical and economic education and have been automati
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="Matplot" alt="Matplot" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="Airflow" width="40" height="40"/>&nbsp;
 </div>
+
+
+</p>
 
 ### :fire: My Stats:
 
