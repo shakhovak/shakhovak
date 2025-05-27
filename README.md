@@ -11,7 +11,7 @@ I am a specialist with a technical and economic education and have been automati
 
 ### Talking about Personal Stuff:
 
-- 👨‍🎓 I'm MSc and just graduated.
+- 👨‍🎓 I'm MSc in Data Science in 2024.
 - 🔭 I’m currently participating in different competitions related to NLP and CV and in parallel continuing some projects related to Aspect-based Sentiment Analysis.
 - 💬 Ask me about anything, I am happy to help
 -  :mailbox:How to reach me:[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Shakhovak/)</a>.
