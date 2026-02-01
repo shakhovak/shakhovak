@@ -27,12 +27,6 @@ I focus on **production readiness**: stability, controllability, latency/cost op
 ### Tech stack
 **Python**, LLM APIs (OpenAI + others), **Pydantic**, **PostgreSQL/pgvector/FTS**, Elasticsearch, Weaviate, embeddings, clustering, Docker, basic ML/NLP tooling
 
-### Selected projects
-- 🎧 **Speaker diarization evaluation** (DER / Boundary F1): alignment + speaker mapping under ASR noise  
-  https://github.com/shakhovak/Speaker_Diarization_LLM_based
-- 💬 **RAG chatbot** (retrieval + generation, Flask):  
-  https://github.com/shakhovak/chat_bot_katya_HW2
-
 ### About me
 - 🎓 MSc in Data Science (2024)
 - 🌍 Open to roles in **LLM / Prompt Engineering**, **Agents**, **RAG**, and **Speech/NLP**
