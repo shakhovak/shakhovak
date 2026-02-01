@@ -61,15 +61,6 @@ I focus on **production readiness**: stability, controllability, latency/cost op
 | ------------- | ------------- |
 
 
-### :trophy: Other stats:
-
-<details>
-  <summary><b>Click to view</b></summary>
-
-|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakhovak)](https://github.com/anuraghazra/github-readme-stats) | <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=shakhovak&theme=flat&row=2&column=3&margin-w=11.47&margin-h=11.47" /></a> |
-| ------------- | ------------- |
-
-</details>
 
 <!--
 **shakhovak/shakhovak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
