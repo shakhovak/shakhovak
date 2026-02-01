@@ -34,7 +34,6 @@ I focus on **production readiness**: stability, controllability, latency/cost op
 
 ### Contact
 - Telegram: https://t.me/Shakhovak
-- Resume (RU): https://myresume.ru/resume/okpBihRSSRY/
 
 ### 🛠️ My Favourite tools
 
