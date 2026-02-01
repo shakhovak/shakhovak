@@ -5,17 +5,42 @@
 
 ----------------
 
-## Hi there 👋! Welcome to my profile!
+## Hi, I'm Ekaterina 👋
 
-I am a specialist with a technical and economic education and have been automating internal processes of commercial companies for many years. Over the past 3 years, I have become an artificial intelligence (AI) enthusiast and actively participate in related projects and competitions. I try to use my passion for research in order to create something new every day in this innovative field and in parallel to solve business problems.
+**Prompt / LLM Engineer** building reliable GenAI features for products: **agents**, **RAG**, **structured outputs**, and **evaluation loops** (golden sets, human scoring, regressions).  
+I focus on **production readiness**: stability, controllability, latency/cost optimization, and measurable quality.
 
-### Talking about Personal Stuff:
+### What I do
+- 🧩 **LLM pipelines**: classification → extraction → recommendations → summarization  
+- 🤖 **Agents & workflows**: goal-based behavior, state logic, escalation, guardrails
+- 📦 **Structured output**: JSON schemas, validation/parsing (Pydantic), auto-repair patterns
+- 🔍 **RAG**: KB generation, hybrid retrieval (vector + lexical), storage benchmarking, quality/latency trade-offs
+- ✅ **Quality & evals**: golden datasets, labeling guidelines, human scoring, error analysis, regression checks
+- 🎙️ **Speech analytics**: ASR → NLP post-processing (summaries/signals), quality metrics for voice scenarios
+- 💸 **Cost / latency**: context optimization, filtering before generation, model selection per task
 
-- 👨‍🎓 I'm MSc in Data Science in 2024.
-- 🔭 I’m currently participating in different competitions related to NLP and CV and in parallel continuing some projects related to Aspect-based Sentiment Analysis.
-- 💬 Ask me about anything, I am happy to help
--  :mailbox:How to reach me:[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Shakhovak/)</a>.
-- 📝 [Resume in Russian](https://myresume.ru/resume/okpBihRSSRY/).
+### Recent experience (high level)
+- Built and shipped LLM features for CRM communications (chat + calls): assistants/agents, robust integrations, logging, retries/timeouts, rate limiting, fallbacks
+- Ran R&D prototypes for KB/RAG and compared vector stores by quality and latency
+- Improved model output stability via strict response contracts and guardrails
+
+### Tech stack
+**Python**, LLM APIs (OpenAI + others), **Pydantic**, **PostgreSQL/pgvector/FTS**, Elasticsearch, Weaviate, embeddings, clustering, Docker, basic ML/NLP tooling
+
+### Selected projects
+- 🎧 **Speaker diarization evaluation** (DER / Boundary F1): alignment + speaker mapping under ASR noise  
+  https://github.com/shakhovak/Speaker_Diarization_LLM_based
+- 💬 **RAG chatbot** (retrieval + generation, Flask):  
+  https://github.com/shakhovak/chat_bot_katya_HW2
+
+### About me
+- 🎓 MSc in Data Science (2024)
+- 🌍 Open to roles in **LLM / Prompt Engineering**, **Agents**, **RAG**, and **Speech/NLP**
+- 🗣️ English: comfortable with technical documentation and cross-team communication
+
+### Contact
+- Telegram: https://t.me/Shakhovak
+- Resume (RU): https://myresume.ru/resume/okpBihRSSRY/
 
 ### 🛠️ My Favourite tools
 
